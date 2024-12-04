@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rajeshkumarsarkar36/](https://www.linkedin.com/in/rajeshkumarsarkar36/)
 
-- 💬 Ask me about **HTML, CSS , JavaScript, React JS, Git**
+- 💬 Ask me about **HTML, CSS, JavaScript, bootstrap, React, Git, github **
 
-- 📫 How to reach me **rajeshkumarsarkar36@gmail.com**
+- 📫 How to reach me **rajeshkumarsarkar63@gmail.com**
 
 - 📄 Know about my experiences [https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy8yZGMwZjQyY2E1NjNjODEzL0VRejJ4a0NaVGtSS2dYcURSM1dwa0lzQnRHemkwZDg2eS1FU0xNNFk4SGxJeFE%5FZT1mNEpjc1E&cid=2DC0F42CA563C813&id=2DC0F42CA563C813%21s40c6f60c4e994a44817a834775a9908b&parId=2DC0F42CA563C813%21s840bd69ad4a04c18a60933c4c421f2fe&o=OneUp](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy8yZGMwZjQyY2E1NjNjODEzL0VRejJ4a0NaVGtSS2dYcURSM1dwa0lzQnRHemkwZDg2eS1FU0xNNFk4SGxJeFE%5FZT1mNEpjc1E&cid=2DC0F42CA563C813&id=2DC0F42CA563C813%21s40c6f60c4e994a44817a834775a9908b&parId=2DC0F42CA563C813%21s840bd69ad4a04c18a60933c4c421f2fe&o=OneUp)
 
